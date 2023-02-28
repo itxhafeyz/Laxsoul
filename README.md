@@ -1,0 +1,2 @@
+# Laxsoul
+Hospital Management System
